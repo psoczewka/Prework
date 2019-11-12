@@ -1,2 +1,3 @@
 Moje repozytorium bêdzie zawieraæ plik opis.txt oraz
 æwiczenia z excela.
+A teraz dodam linijkê by zobaczyæ zmiany w repozytorium.
